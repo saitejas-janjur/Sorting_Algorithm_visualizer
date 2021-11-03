@@ -28,7 +28,7 @@ To run the program, download the code to you python IDE and install `tkinter`
 
 -> In this window you can select which algorithm you want to run, such as  `Bubble Sort` `Quick Sort` `Merge Sort`. 
 
--> You can also select `Speed` `Data Size` `Minimum Value` `Maximum Value` for a randome array to be generated.
+-> You can also select `Speed` `Data Size` `Minimum Value` `Maximum Value` for a random array to be generated.
 
 -> After that click on `Generate` to display the array based on given parameters. 
 
